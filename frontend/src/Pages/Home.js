@@ -1,20 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Imagen1 from "../Imagenes/img1.jpg";
 
 function Home() {
   return (
-    <div styles={{ backgroundImage: `url(${Imagen1})` }}>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+    <div>
       <br></br>
       <br></br>
       <br></br>

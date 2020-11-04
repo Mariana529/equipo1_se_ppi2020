@@ -6,19 +6,6 @@ function RegistrarEditarVerPedidos() {
     <div>
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <button className="btn-warning">
         <Link to="/RegistrarMiMenú">REGISTRAR MENÚ</Link>
       </button>

@@ -1,5 +1,4 @@
 import React from "react";
-import menu from "../Imagenes/menu.jpg";
 import { Link } from "react-router-dom";
 
 function RegistrarMiMenú() {

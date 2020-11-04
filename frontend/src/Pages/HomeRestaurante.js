@@ -5,12 +5,6 @@ function HomeRestaurante() {
     <div>
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <button className="btn-warning">
         <Link to="RegistrarRestaurante"> Registro de restaurante</Link>
       </button>
@@ -23,6 +17,11 @@ function HomeRestaurante() {
       <br></br>
       <h1 class="bienvenida">BIENVENIDO</h1>
       <h1 class="bienvenida">FAST FOOD</h1>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
+        <Link to="/Home"> Atras </Link>
+      </button>
     </div>
   );
 }

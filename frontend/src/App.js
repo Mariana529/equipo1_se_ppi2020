@@ -41,6 +41,7 @@ import Compras from "../src/Pages/Compras";
 import EditarMiMenú from "../src/Pages/EditarMiMenú";
 import VerMisPedidos from "../src/Pages/VerMisPedidos";
 import RegistrarMiMenú from "../src/Pages/RegistrarMiMenú";
+
 import Fin from "../src/Pages/Fin";
 
 class App extends React.Component {
