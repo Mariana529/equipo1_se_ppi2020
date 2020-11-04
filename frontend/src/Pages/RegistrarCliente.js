@@ -5,11 +5,9 @@ import "../styles.css";
 function RegistraCliente() {
   return (
     <div class="gr27e  ">
-       <br></br>
-       <br></br>
-       <br></br>
-       <br></br>
-       <br></br>
+      <br></br>
+      <br></br>
+
       <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">Fast Food</h1>
       <br></br>
       <br></br>
@@ -21,10 +19,10 @@ function RegistraCliente() {
             <div class="_9GP1n   ">
               <label class="f0n8F ">
                 <span class="_9nyy2">
-                <br></br>
-                <br></br>
-                  Número de celular o correo electrónico 
-                 </span>
+                  <br></br>
+                  <br></br>
+                  Número de celular o correo electrónico
+                </span>
                 <input
                   aria-label="Número de celular o correo electrónico"
                   aria-required="true"
@@ -113,11 +111,16 @@ function RegistraCliente() {
               >
                 {" "}
                 <Link to="/Restaurantes">Registrate</Link>{" "}
-                </button>
+              </button>
             </div>
           </div>
         </form>
       </div>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
+        <Link to="/Homecliente"> Atras </Link>
+      </button>
     </div>
   );
 }

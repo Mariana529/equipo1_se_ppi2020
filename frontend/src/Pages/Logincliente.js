@@ -75,6 +75,11 @@ function Logincliente() {
           </a>
         </form>
       </div>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
+        <Link to="/Homecliente"> Atras </Link>
+      </button>
     </div>
   );
 }

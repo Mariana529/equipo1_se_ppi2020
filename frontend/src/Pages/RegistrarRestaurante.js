@@ -7,14 +7,7 @@ function RegistrarRestaurante() {
     <div class="gr27e  ">
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+
       <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">Fast Food</h1>
       <br></br>
       <br></br>
