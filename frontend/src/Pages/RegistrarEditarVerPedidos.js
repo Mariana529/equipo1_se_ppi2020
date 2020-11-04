@@ -30,6 +30,9 @@ function RegistrarEditarVerPedidos() {
       <button className="btn-warning">
         <Link to="/HomeRestaurante"> Atras </Link>
       </button>
+      <button className="btn-warning">
+        <Link to="/Home"> Salir </Link>
+      </button>
     </div>
   );
 }
