@@ -311,7 +311,7 @@ html {
 }
 
 .Atras {
-  position: fixed;
+  position: footer;
   top: 400px;
   left: 220px;
 }
