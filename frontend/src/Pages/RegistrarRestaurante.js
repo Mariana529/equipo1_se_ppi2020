@@ -39,7 +39,7 @@ function RegistrarRestaurante() {
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Email </span>
+                <span class="_9nyy2">Telefono </span>
                 <input
                   aria-label="Email"
                   aria-required="false"
@@ -55,6 +55,26 @@ function RegistrarRestaurante() {
             </div>
           </div>
           <br></br>
+          <br></br>
+          <div class="WZdjL">
+            <div class="_9GP1n   ">
+              <label class="f0n8F ">
+                <span class="_9nyy2">Email </span>
+                <input
+                  aria-label="Contraseña"
+                  aria-required="true"
+                  autocapitalize="off"
+                  autocomplete="new-password"
+                  autocorrect="off"
+                  name="password"
+                  type="password"
+                  class="_2hvTZ pexuQ zyHYP"
+                  value=""
+                />
+              </label>
+              <div class="i24fI"></div>
+            </div>
+          </div>
           <br></br>
           <div class="WZdjL">
             <div class="_9GP1n   ">
