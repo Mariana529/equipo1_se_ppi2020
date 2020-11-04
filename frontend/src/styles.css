@@ -7,9 +7,9 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: rgb(23, 96, 241);
+  background-color: rgb(34, 126, 212);
   background-color: rgba(var(--d87, 255, 255, 255), 1);
-  border: 1px solid #431fe4;
+  border: 1px solid #6868ee;
   border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
   border-radius: 1px;
   margin: 0 0 10px;
@@ -308,4 +308,10 @@ html {
 .inicio {
   text-align: center;
   font-size: 90%;
+}
+
+.Atras {
+  position: fixed;
+  top: 400px;
+  left: 220px;
 }

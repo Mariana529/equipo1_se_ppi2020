@@ -18,7 +18,7 @@ function Compras() {
       <br></br>
       <button ClassName="btn-warning">
         {" "}
-        <Link to="/Restaurantes">Seguir comprando</Link>
+        <Link to="/MenúMontañita">Seguir comprando</Link>
       </button>
     </div>
   );

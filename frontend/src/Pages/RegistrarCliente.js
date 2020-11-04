@@ -118,7 +118,7 @@ function RegistraCliente() {
       </div>
       <br></br>
       <br></br>
-      <button className="btn-warning">
+      <button className="btn-warning" class="Atras">
         <Link to="/Homecliente"> Atras </Link>
       </button>
     </div>
