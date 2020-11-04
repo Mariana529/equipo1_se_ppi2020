@@ -56,6 +56,11 @@ function MenuCerroVerde() {
           </a>
         </li>
       </ul>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
+        <Link to="/Restaurantes"> Atras </Link>
+      </button>
     </div>
   );
 }
