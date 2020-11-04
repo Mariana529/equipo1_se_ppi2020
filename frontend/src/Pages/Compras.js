@@ -5,12 +5,17 @@ function Compras() {
   return (
     <div>
       <h1 class="inicio">TU PEDIDO</h1>
-
+      <br></br>
+      <br></br>
+      <br></br>
+      <button>+</button>
+      <br></br>
+      <button>-</button>
+      <br></br>
       <button ClassName="btn-warning">
         <Link to="/Fin">Terminar pedido</Link>
       </button>
-      <button>+</button>
-      <button>-</button>
+      <br></br>
       <button ClassName="btn-warning">
         {" "}
         <Link to="/Restaurantes">Seguir comprando</Link>

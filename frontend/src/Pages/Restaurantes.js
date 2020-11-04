@@ -136,6 +136,11 @@ function Restaurantes() {
       <button className="btn-warning">
         <Link to="/MenúAsadorElPlacer">Asador El Placer</Link>
       </button>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
+        <Link to="/Homecliente"> Atras </Link>
+      </button>
     </div>
   );
 }
