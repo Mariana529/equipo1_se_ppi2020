@@ -7,7 +7,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: rgb(17, 95, 238);
+  background-color: rgb(23, 96, 241);
   background-color: rgba(var(--d87, 255, 255, 255), 1);
   border: 1px solid #431fe4;
   border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
@@ -15,6 +15,7 @@
   margin: 0 0 10px;
   padding: 10px 0;
 }
+
 #react-root,
 article,
 div,
@@ -281,4 +282,30 @@ html {
 .rating span.checked ~ span label {
   background: #f90;
   color: #fff;
+}
+
+.bienvenida {
+  color: #000000;
+  text-align: center;
+  font-size: 400%;
+}
+
+.inicio {
+  color: #000000;
+  text-align: center;
+  font-size: 200%;
+}
+
+.img {
+  display: block;
+  margin: auto;
+}
+.letra {
+  color: #000000;
+  text-align: center;
+  font-size: 90%;
+}
+.inicio {
+  text-align: center;
+  font-size: 90%;
 }

@@ -38,9 +38,11 @@ import MenúHowFanExpress from "../src/Pages/MenúHowFanExpress";
 import RegistrarEditarVerPedidos from "../src/Pages/RegistrarEditarVerPedidos";
 import MenúAsadorElPlacer from "../src/Pages/MenúAsadorElPlacer";
 import Compras from "../src/Pages/Compras";
-import CrearMiMenú from "../src/Pages/CrearMiMenú";
 import EditarMiMenú from "../src/Pages/EditarMiMenú";
 import VerMisPedidos from "../src/Pages/VerMisPedidos";
+import RegistrarMiMenú from "../src/Pages/RegistrarMiMenú";
+import Fin from "../src/Pages/Fin";
+
 class App extends React.Component {
   render() {
     return (
@@ -61,6 +63,7 @@ class App extends React.Component {
             path="/MenúEstaderoLaRosita"
             component={MenúEstaderoLaRosita}
           />
+          <Route exact path="/Fin" component={Fin} />
           <Route
             exact
             path="/MenúConejosyConejos"
@@ -136,9 +139,9 @@ class App extends React.Component {
             component={MenúAsadorElPlacer}
           />
           <Route exact path="/Compras" component={Compras} />
-          <Route exact path="CrearMiMenú" component={CrearMiMenú} />
           <Route exact path="/EditarMiMenú" component={EditarMiMenú} />
           <Route exact path="/VerMisPedidos" component={VerMisPedidos} />
+          <Route exact path="/RegistrarMiMenú" component={RegistrarMiMenú} />
         </Switch>
       </BrowserRouter>
     );

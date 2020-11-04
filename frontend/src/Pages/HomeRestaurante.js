@@ -3,15 +3,26 @@ import { Link } from "react-router-dom";
 function HomeRestaurante() {
   return (
     <div>
-      <button ClassName="btn-warning">
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <button className="btn-warning">
         <Link to="RegistrarRestaurante"> Registro de restaurante</Link>
       </button>
+      <br></br>
+      <br></br>
       <button className="btn-warning">
         <Link to="LoginRestaurante">Login</Link>
       </button>
       <br></br>
-      <h1>BIENVENIDO</h1>
-      <h1>FAST FOOD</h1>
+      <br></br>
+      <h1 class="bienvenida">BIENVENIDO</h1>
+      <h1 class="bienvenida">FAST FOOD</h1>
     </div>
   );
 }

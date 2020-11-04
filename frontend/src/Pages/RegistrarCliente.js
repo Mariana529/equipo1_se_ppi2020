@@ -5,18 +5,26 @@ import "../styles.css";
 function RegistraCliente() {
   return (
     <div class="gr27e  ">
+       <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
       <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">Fast Food</h1>
+      <br></br>
       <br></br>
       <div class="P8adC">
         <form class="XFYOY" method="post">
           <div class="                    Igw0E     IwRSH      eGOV_         _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "></div>
 
-          <div class="WZdjL">
+          <div class="WZdjL" class="inicio">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
                 <span class="_9nyy2">
-                  Número de celular o correo electrónico
-                </span>
+                <br></br>
+                <br></br>
+                  Número de celular o correo electrónico 
+                 </span>
                 <input
                   aria-label="Número de celular o correo electrónico"
                   aria-required="true"
@@ -33,10 +41,11 @@ function RegistraCliente() {
             </div>
           </div>
           <br></br>
+          <br></br>
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Nombre completo</span>
+                <span class="_9nyy2">Nombre completo </span>
                 <input
                   aria-label="Nombre completo"
                   aria-required="false"
@@ -52,10 +61,11 @@ function RegistraCliente() {
             </div>
           </div>
           <br></br>
+          <br></br>
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Nombre de usuario</span>
+                <span class="_9nyy2">Nombre de usuario </span>
                 <input
                   aria-label="Nombre de usuario"
                   aria-required="true"
@@ -72,10 +82,11 @@ function RegistraCliente() {
             </div>
           </div>
           <br></br>
+          <br></br>
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Contraseña</span>
+                <span class="_9nyy2">Contraseña </span>
                 <input
                   aria-label="Contraseña"
                   aria-required="true"
@@ -93,6 +104,7 @@ function RegistraCliente() {
           </div>
           <div>
             <br></br>
+            <br></br>
             <div class="                    Igw0E     IwRSH      eGOV_         _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    ">
               <button
                 class="sqdOP  L3NKy   y3zKF     "
@@ -101,7 +113,7 @@ function RegistraCliente() {
               >
                 {" "}
                 <Link to="/Restaurantes">Registrate</Link>{" "}
-              </button>
+                </button>
             </div>
           </div>
         </form>

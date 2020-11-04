@@ -1,12 +1,20 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Compras() {
   return (
     <div>
-      <h1>TU PEDIDO</h1>
+      <h1 class="inicio">TU PEDIDO</h1>
 
-      <button>Terminar pedido</button>
-      <button> Seguir comprando</button>
+      <button ClassName="btn-warning">
+        <Link to="/Fin">Terminar pedido</Link>
+      </button>
+      <button>+</button>
+      <button>-</button>
+      <button ClassName="btn-warning">
+        {" "}
+        <Link to="/Restaurantes">Seguir comprando</Link>
+      </button>
     </div>
   );
 }
