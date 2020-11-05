@@ -88,7 +88,7 @@ function MenúMontañita() {
         </Link>
       </button>
       <br></br>
-      <button className="btn-warning">
+      <button className="btn-warning" class="Atras">
         <Link to="/Compras">Salchipapa..13.500</Link>
       </button>
       <ul class="rating">

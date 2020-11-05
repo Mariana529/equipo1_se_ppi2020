@@ -75,7 +75,7 @@ function MenuBarbacoa() {
       </ul>
       <br></br>
       <br></br>
-      <button className="btn-warning">
+      <button className="btn-warning" class="Atras">
         <Link to="/Restaurantes"> Atras </Link>
       </button>
     </div>
