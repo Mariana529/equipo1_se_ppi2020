@@ -21,7 +21,7 @@ function HomeRestaurante() {
       <br></br>
       <br></br>
       <button type="button" className="btn btn-outline-primary" class="Atras">
-        <Link to="/Home"> Atras </Link>
+        <Link to="/"> Atras </Link>
       </button>
     </div>
   );

@@ -37,7 +37,7 @@ function VerMisPedidos() {
         <Link to="/RegistrarEditarVerPedidos"> Atras </Link>
       </button>
       <button className="btn-warning">
-        <Link to="/Home"> Salir </Link>
+        <Link to="/"> Salir </Link>
       </button>
     </div>
   );

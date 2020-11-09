@@ -49,7 +49,7 @@ class App extends React.Component {
     return (
       <BrowserRouter>
         <Switch>
-          <Route exact path="/Home" component={Home} />
+          <Route exact path="/" component={Home} />
           <Route exact path="/Homecliente" component={Homecliente} />
           <Route exact path="/Logincliente" component={Logincliente} />
           <Route exact path="/HomeRestaurante" component={HomeRestaurante} />
