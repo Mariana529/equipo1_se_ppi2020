@@ -39,7 +39,7 @@ function RegistrarRestaurante() {
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Telefono </span>
+                <span class="_9nyy2">Teléfono </span>
                 <input
                   aria-label="Email"
                   aria-required="false"
@@ -59,7 +59,7 @@ function RegistrarRestaurante() {
           <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
-                <span class="_9nyy2">Email </span>
+                <span class="_9nyy2">Correo electrónico </span>
                 <input
                   aria-label="Contraseña"
                   aria-required="true"
