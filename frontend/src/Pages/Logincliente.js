@@ -9,7 +9,7 @@ function Logincliente() {
       <br></br>
       <br></br>
       <br></br>
-      <div class="EPjEi" class="inicio">
+      <div class="EPjEi" className="centrar">
         <form class="HmktE" id="loginForm" method="post">
           <div class="                    Igw0E     IwRSH      eGOV_         _4EzTm                                                              kEKum                                                ">
             <div class="-MzZI">

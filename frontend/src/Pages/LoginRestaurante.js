@@ -8,7 +8,7 @@ function LoginRestaurante() {
       <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">Fast Food</h1>
       <br></br>
       <br></br>
-      <div class="EPjEi" class="inicio">
+      <div class="EPjEi" className="centrar">
         <form class="HmktE" id="loginForm" method="post">
           <div class="                    Igw0E     IwRSH      eGOV_         _4EzTm                                                              kEKum                                                ">
             <div class="-MzZI">

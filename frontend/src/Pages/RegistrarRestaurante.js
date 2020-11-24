@@ -15,7 +15,7 @@ function RegistrarRestaurante() {
         <form class="XFYOY" method="post">
           <div class=" Igw0E IwRSH eGOV_  _4EzTm bkEs3 CovQj jKUp7 DhRcB  "></div>
 
-          <div class="WZdjL" class="inicio">
+          <div class="WZdjL" className="centrar">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
                 <span class="_9nyy2">Nombre restaurante </span>
