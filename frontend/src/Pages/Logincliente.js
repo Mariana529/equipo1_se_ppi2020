@@ -5,9 +5,10 @@ import "../styles.css";
 function Logincliente() {
   return (
     <div class="gr27e  ">
-      <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">FAST FOOD</h1>
-      <br></br>
-      <br></br>
+      <h1 class="inicio" classN="NXVPg Szr5J  coreSpriteLoggedOutWordmark">
+        FAST FOOD
+      </h1>
+
       <br></br>
       <div class="EPjEi" className="centrar">
         <form class="HmktE" id="loginForm" method="post">
