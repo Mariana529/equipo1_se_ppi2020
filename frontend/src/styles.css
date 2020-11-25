@@ -290,12 +290,6 @@ html {
   font-size: 400%;
 }
 
-.inicio {
-  color: #000000;
-  text-align: center;
-  font-size: 200%;
-}
-
 .img {
   display: block;
   margin: auto;
@@ -306,8 +300,9 @@ html {
   font-size: 90%;
 }
 .inicio {
+  color: #000000;
   text-align: center;
-  font-size: 90%;
+  font-size: 150%;
 }
 
 .Atras {

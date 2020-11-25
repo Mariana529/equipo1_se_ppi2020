@@ -8,7 +8,9 @@ function RegistraCliente() {
       <br></br>
       <br></br>
 
-      <h1 class="NXVPg Szr5J  coreSpriteLoggedOutWordmark">Fast Food</h1>
+      <h1 class="inicio" classN="NXVPg Szr5J  coreSpriteLoggedOutWordmark">
+        FAST FOOD
+      </h1>
       <br></br>
       <br></br>
       <div class="P8adC">
