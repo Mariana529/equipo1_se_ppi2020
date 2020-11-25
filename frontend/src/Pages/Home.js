@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../Imagenes/logo.png";
 
 function Home() {
   return (
@@ -21,6 +22,7 @@ function Home() {
       </button>
       <br></br>
       <br></br>
+      <img src={logo} className="img-thumbnail" width="200" alt="logo" />
     </div>
   );
 }
