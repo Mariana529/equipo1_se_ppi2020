@@ -19,6 +19,8 @@ function Home() {
       <button className="btn-warning">
         <Link to="/HomeRestaurante">Usuario Restaurante</Link>
       </button>
+      <br></br>
+      <br></br>
     </div>
   );
 }
