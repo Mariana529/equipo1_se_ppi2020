@@ -13,7 +13,7 @@ function RegistrarRestaurante() {
       </h1>
       <br></br>
       <br></br>
-      <div class="P8adC">
+      <div class="P8adC" className="centrar">
         <form class="XFYOY" method="post">
           <div class=" Igw0E IwRSH eGOV_  _4EzTm bkEs3 CovQj jKUp7 DhRcB  "></div>
 

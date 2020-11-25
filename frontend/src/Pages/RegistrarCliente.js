@@ -11,9 +11,7 @@ function RegistraCliente() {
       <h1 class="inicio" classN="NXVPg Szr5J  coreSpriteLoggedOutWordmark">
         FAST FOOD
       </h1>
-      <br></br>
-      <br></br>
-      <div class="P8adC">
+      <div class="P8adC" className="centrar">
         <form class="XFYOY" method="post">
           <div class="                    Igw0E     IwRSH      eGOV_         _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "></div>
 
