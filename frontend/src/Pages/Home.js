@@ -26,7 +26,7 @@ function Home() {
         src={logo}
         class="img"
         className="img-thumbnail"
-        width="200"
+        width="180"
         alt="logo"
       />
     </div>
