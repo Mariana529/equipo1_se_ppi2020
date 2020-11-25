@@ -11,13 +11,11 @@ function RegistrarRestaurante() {
       <h1 class="inicio" classN="NXVPg Szr5J  coreSpriteLoggedOutWordmark">
         FAST FOOD
       </h1>
-      <br></br>
-      <br></br>
       <div class="P8adC" className="centrar">
         <form class="XFYOY" method="post">
           <div class=" Igw0E IwRSH eGOV_  _4EzTm bkEs3 CovQj jKUp7 DhRcB  "></div>
 
-          <div class="WZdjL" className="centrar">
+          <div class="WZdjL">
             <div class="_9GP1n   ">
               <label class="f0n8F ">
                 <span class="_9nyy2">Nombre restaurante </span>
