@@ -22,7 +22,13 @@ function Home() {
       </button>
       <br></br>
       <br></br>
-      <img src={logo} className="img-thumbnail" width="200" alt="logo" />
+      <img
+        src={logo}
+        class="img"
+        className="img-thumbnail"
+        width="200"
+        alt="logo"
+      />
     </div>
   );
 }
