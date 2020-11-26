@@ -24,8 +24,8 @@ function Home() {
       <br></br>
       <img
         src={logo}
-        className="img"
-        class="img-thumbnail"
+        class="img"
+        className="img-thumbnail"
         width="180"
         alt="logo"
       />
