@@ -10,7 +10,7 @@ function RegistrarMiMenú() {
       <h3 class="letra">(Este espacio es para que crees tu menú)</h3>
       <br></br>
 
-      <div class="WZdjL">
+      <div className="WZdjL" class="centrar">
         <div class="_9GP1n">
           <label class="f0n8F ">
             <span class="_9nyy2">Nombre del plato </span>
