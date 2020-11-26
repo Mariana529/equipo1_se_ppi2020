@@ -48,16 +48,13 @@ function EditarMiMenú() {
             <div class="i24fI"></div>
           </div>
           <br></br>
-          <button className="btn-warning">
+          <button className="btn-warning" class="centrar">
             <Link to="/RegistrarEditarVerPedidos"> Atras </Link>
           </button>
-          <div class="Igw0E IwRSH eGOV_ _4EzTm  bkEs3 CovQj jKUp7 DhRcB">
-            <button class="sqdOP  L3NKy   y3zKF" disabled="" type="submit">
-              <div className="btn-warning">
-                <Link to="/RegistrarEditarVerpedidos">Salvar cambios</Link>
-              </div>
-            </button>
-          </div>
+
+          <button className="btn-warning" class="centrar">
+            <Link to="/RegistrarEditarVerpedidos">Salvar cambios</Link>
+          </button>
         </div>
       </div>
     </div>
